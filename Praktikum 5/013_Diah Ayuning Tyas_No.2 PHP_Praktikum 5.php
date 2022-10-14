@@ -73,7 +73,7 @@ class Bayaran
 	{
 		echo "Diah Ayuning Tyas - 20051397019";
         echo "<br>";
-		$man = new Manajer("Yaurrhmn", 5000000, 5000000);
+		$man = new Manajer("Yaurrhmn", 5000000, 4500000);
         echo "<br>", "<br>";
 		$prog = new Programmer("Diva", 4000000, 300000); 
         echo "<br>", "<br>";
